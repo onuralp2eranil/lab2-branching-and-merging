@@ -11,7 +11,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 1/2 teaspoon salt
 - 3 large eggs
 - 1 cup milk
-- 1/2 cup vegetable oil
+- 1/2 cup butter
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
 - 1 cup dark chocolate chips
